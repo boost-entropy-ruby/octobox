@@ -26,14 +26,14 @@ gem 'sidekiq-unique-jobs'
 gem 'sidekiq-scheduler', require: false
 gem 'rack-canonical-host'
 gem 'sidekiq-status'
-gem 'gemoji', require: false
+gem 'gemoji', '<4', require: false
 gem 'bootsnap', require: false
 gem 'bugsnag'
 gem 'jwt'
 gem 'oj'
 gem 'yard', require: false
 gem 'commonmarker'
-gem 'pg', '1.4.4'
+gem 'pg', '1.4.5'
 gem 'rexml'
 gem 'omniauth-rails_csrf_protection'
 gem 'psych', '~> 3.3'
