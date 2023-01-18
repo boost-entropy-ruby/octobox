@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby '3.2.0'
 
-gem 'rails', '7.0.4'
+gem 'rails', '7.0.4.1'
 gem 'bootstrap', '4.6.0'
 gem 'attr_encrypted', git: 'https://github.com/octobox/attr_encrypted.git', branch: 'rails-7'
 gem 'jquery-rails'
@@ -36,7 +36,7 @@ gem 'commonmarker'
 gem 'pg', '1.4.5'
 gem 'rexml'
 gem 'omniauth-rails_csrf_protection'
-gem 'psych', '~> 3.3'
+gem 'psych', '~> 5.0'
 gem 'nokogiri', '1.14.0'
 
 group :development, :test do
