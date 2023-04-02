@@ -75,7 +75,7 @@ GEM
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
       tzinfo (~> 2.0)
-    addressable (2.8.1)
+    addressable (2.8.2)
       public_suffix (>= 2.0.2, < 6.0)
     autoprefixer-rails (10.4.13.0)
       execjs (~> 2)
@@ -254,7 +254,7 @@ GEM
     psych (5.1.0)
       stringio
     public_suffix (5.0.1)
-    puma (6.2.0)
+    puma (6.2.1)
       nio4r (~> 2.0)
     puma_worker_killer (0.3.1)
       get_process_mem (~> 0.2)
