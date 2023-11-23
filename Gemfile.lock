@@ -98,7 +98,7 @@ GEM
       tzinfo (~> 2.0)
     addressable (2.8.5)
       public_suffix (>= 2.0.2, < 6.0)
-    autoprefixer-rails (10.4.15.0)
+    autoprefixer-rails (10.4.16.0)
       execjs (~> 2)
     base64 (0.2.0)
     better_errors (2.10.1)
@@ -145,7 +145,7 @@ GEM
     ethon (0.16.0)
       ffi (>= 1.15.0)
     execjs (2.9.1)
-    factory_bot (6.4.1)
+    factory_bot (6.4.2)
       activesupport (>= 5.0.0)
     faraday (1.10.3)
       faraday-em_http (~> 1.0)
@@ -186,7 +186,7 @@ GEM
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     io-console (0.6.0)
-    irb (1.9.0)
+    irb (1.9.1)
       rdoc
       reline (>= 0.3.8)
     jbuilder (2.11.5)
@@ -224,7 +224,7 @@ GEM
     multi_xml (0.6.0)
     multipart-post (2.3.0)
     mutex_m (0.2.0)
-    net-imap (0.4.5)
+    net-imap (0.4.6)
       date
       net-protocol
     net-pop (0.1.2)
