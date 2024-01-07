@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '3.2.2'
+ruby '3.3.0'
 
 gem 'rails', '7.1.2'
 gem 'bootstrap', '4.6.2'
@@ -32,7 +32,7 @@ gem 'bugsnag'
 gem 'jwt'
 gem 'oj'
 gem 'yard', require: false
-gem 'commonmarker'
+gem 'commonmarker', '0.23.10'
 gem 'pg'
 gem 'rexml'
 gem 'omniauth-rails_csrf_protection'

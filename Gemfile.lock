@@ -225,14 +225,14 @@ GEM
     multi_xml (0.6.0)
     multipart-post (2.3.0)
     mutex_m (0.2.0)
-    net-imap (0.4.9)
+    net-imap (0.4.9.1)
       date
       net-protocol
     net-pop (0.1.2)
       net-protocol
     net-protocol (0.2.2)
       timeout
-    net-smtp (0.4.0)
+    net-smtp (0.4.0.1)
       net-protocol
     nio4r (2.7.0)
     nokogiri (1.16.0)
@@ -347,7 +347,7 @@ GEM
       redis-client (>= 0.17.0)
     redis-client (0.19.1)
       connection_pool
-    reline (0.4.1)
+    reline (0.4.2)
       io-console (~> 0.5)
     request_store (1.5.1)
       rack (>= 1.4)
@@ -441,7 +441,7 @@ DEPENDENCIES
   bootstrap (= 4.6.2)
   brakeman
   bugsnag
-  commonmarker
+  commonmarker (= 0.23.10)
   dotenv-rails
   factory_bot
   faraday
@@ -490,7 +490,7 @@ DEPENDENCIES
   yard
 
 RUBY VERSION
-   ruby 3.2.2p31
+   ruby 3.3.0p31
 
 BUNDLED WITH
    2.4.22
