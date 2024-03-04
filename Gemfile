@@ -22,7 +22,7 @@ gem 'jbuilder'
 gem 'rake', require: false
 gem 'rgb'
 gem 'sidekiq'
-gem 'sidekiq-unique-jobs', git: 'https://github.com/mhenrixon/sidekiq-unique-jobs', ref: 'b31e80b'
+gem 'sidekiq-unique-jobs'
 gem 'sidekiq-scheduler', require: false
 gem 'rack-canonical-host'
 gem 'sidekiq-status'
@@ -38,6 +38,7 @@ gem 'rexml'
 gem 'omniauth-rails_csrf_protection'
 gem 'psych'
 gem 'nokogiri'
+gem 'redis'
 
 group :development, :test do
   gem 'dotenv-rails'
