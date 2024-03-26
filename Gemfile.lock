@@ -106,7 +106,7 @@ GEM
       sassc-rails (>= 2.0.0)
     brakeman (6.1.2)
       racc
-    bugsnag (6.26.3)
+    bugsnag (6.26.4)
       concurrent-ruby (~> 1.0)
     builder (3.2.4)
     chronic_duration (0.10.6)
@@ -127,7 +127,7 @@ GEM
     drb (2.2.1)
     encryptor (3.0.0)
     erubi (1.12.0)
-    et-orbi (1.2.10)
+    et-orbi (1.2.11)
       tzinfo
     ethon (0.16.0)
       ffi (>= 1.15.0)
@@ -334,9 +334,9 @@ GEM
       psych (>= 4.0.0)
     redis (5.1.0)
       redis-client (>= 0.17.0)
-    redis-client (0.21.0)
+    redis-client (0.21.1)
       connection_pool
-    reline (0.4.3)
+    reline (0.5.0)
       io-console (~> 0.5)
     request_store (1.6.0)
       rack (>= 1.4)
