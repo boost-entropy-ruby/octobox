@@ -106,7 +106,7 @@ GEM
       sassc-rails (>= 2.0.0)
     brakeman (6.1.2)
       racc
-    bugsnag (6.26.4)
+    bugsnag (6.27.0)
       concurrent-ruby (~> 1.0)
     builder (3.2.4)
     chronic_duration (0.10.6)
@@ -343,7 +343,7 @@ GEM
       rack (>= 1.4)
     rexml (3.2.8)
       strscan (>= 3.0.9)
-    rgb (0.1.0)
+    rgb (0.1.2)
     rouge (4.2.1)
     ruby2_keywords (0.0.5)
     rufus-scheduler (3.9.1)
