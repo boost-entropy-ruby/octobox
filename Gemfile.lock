@@ -100,7 +100,7 @@ GEM
       autoprefixer-rails (>= 9.1.0)
       popper_js (>= 1.16.1, < 2)
       sassc-rails (>= 2.0.0)
-    brakeman (6.2.1)
+    brakeman (6.2.2)
       racc
     bugsnag (6.27.1)
       concurrent-ruby (~> 1.0)
@@ -423,7 +423,7 @@ GEM
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
     yard (0.9.37)
-    zeitwerk (2.7.0)
+    zeitwerk (2.7.1)
 
 PLATFORMS
   arm64-darwin-21
