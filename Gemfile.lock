@@ -102,7 +102,7 @@ GEM
       autoprefixer-rails (>= 9.1.0)
       popper_js (>= 1.16.1, < 2)
       sassc-rails (>= 2.0.0)
-    brakeman (7.0.1)
+    brakeman (7.0.2)
       racc
     bugsnag (6.27.1)
       concurrent-ruby (~> 1.0)
@@ -347,7 +347,7 @@ GEM
       redis-client (>= 0.22.0)
     redis-client (0.24.0)
       connection_pool
-    reline (0.6.0)
+    reline (0.6.1)
       io-console (~> 0.5)
     request_store (1.7.0)
       rack (>= 1.4)
